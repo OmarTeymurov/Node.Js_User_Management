@@ -1,33 +1,38 @@
 [
-    {
-      "id": 1,
-      "name": "Faiz Alam",
-      "email": "mohdfaizalam53@gmail.com",
-      "role": "admin"
-    },
-    {
-      "id": 2,
-      "name": "Sanjeev Kumar",
-      "email": "sanjeev@demo.com",
-      "role": "user"
-    },
-    {
-      "id": 3,
-      "name": "Archit Mehta",
-      "email": "archit@mehta.in",
-      "role": "moderator"
-    },
-    {
-      "id": 4,
-      "name": "The Gamer",
-      "email": "thegamer@gmail.com",
-      "role": "user"
-    },
-    {
-      "id": 5,
-      "name": "Ben Awad",
-      "email": "benawad@gmail.com",
-      "role": "admin"
-    }
-  ]
-
+  {
+    "id": 1,
+    "name": "Faiz Alam",
+    "email": "mohdfaizalam53@gmail.com",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "name": "Sanjeev Kumar",
+    "email": "sanjeev@demo.com",
+    "role": "user"
+  },
+  {
+    "id": 3,
+    "name": "Archit Mehta",
+    "email": "archit@mehta.in",
+    "role": "moderator"
+  },
+  {
+    "id": 4,
+    "name": "The Gamer",
+    "email": "thegamer@gmail.com",
+    "role": "user"
+  },
+  {
+    "id": 5,
+    "name": "Ben Awad",
+    "email": "benawad@gmail.com",
+    "role": "admin"
+  },
+  {
+    "id": 6,
+    "name": "test",
+    "email": "test@test",
+    "role": "moderator"
+  }
+]
